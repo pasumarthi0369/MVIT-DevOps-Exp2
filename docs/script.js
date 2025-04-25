@@ -9,5 +9,6 @@ function validateLogin(){
             alert("Invalid username or password!");
             return false;
 
+
 }
 }
